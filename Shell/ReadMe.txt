@@ -1,0 +1,1 @@
+A simple shell that able to execute applications, setup pipes between executed applications, redirect standard input/output from/to files for the executed applications, and perform simple commands internally (cat, rm, mv, cp,...). The project was mainly about fork() and pipe() system call concepts. 

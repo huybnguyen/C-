@@ -1,0 +1,1 @@
+A virtual machine that using the Round-Robin scheduler algorithm. Also, the virtual machine will have the ability to mount and manipulate a FAT file system image (create, delete, read, and write). Using the fatgen103 pdf from Microsoft as a resource to correctly parse each of the FAT file entry.
